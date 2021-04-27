@@ -1,7 +1,7 @@
 # Ello, I'm Chriz!
 I'm now on Github so yeah ;)
 
-## - [Bio](dsc.bio/chriz)
+## - [More About Me](dsc.bio/chriz)
 ## - [Discord Server](dsc.gg/chriz)
 ## - [Other Links](beacons.ai/Chrizxzftw)
 ## - [CommandGeek](commandgeek.com)
