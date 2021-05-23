@@ -1,8 +1,8 @@
 # Ello, I'm Chriz!
 I'm now on Github so yeah ;)
 
-### - [More About Me](dsc.bio/chriz)
-### - [Other Links](beacons.ai/Chrizxzftw)
+### - [More About Me](chrizftw.cf/aboutme)
+### - [Other Links](chrizftw.cf/links)
 ### - [CommandGeek](commandgeek.com)
 
 # Join the Discord Server!
