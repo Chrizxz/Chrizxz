@@ -1,3 +1,5 @@
+ <p align="center"><img src="https://img.chrizftw.cf/r/kp1oq9tgi9a.png" alt="logo"></p>
+
 #  Ello, I'm Chriz! :D
 I'm now on Github so yeah ;) 
 
