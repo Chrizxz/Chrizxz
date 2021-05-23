@@ -1,9 +1,10 @@
-# Ello, I'm Chriz!
-I'm now on Github so yeah ;)
+#  Ello, I'm Chriz! :D
+I'm now on Github so yeah ;) 
 
-### - [More About Me](chrizftw.cf/aboutme)
-### - [Other Links](chrizftw.cf/links)
-### - [CommandGeek](commandgeek.com)
+#### - [Website](chrizftw.cf)
+#### - [More About Me](chrizftw.cf/aboutme)
+#### - [Other Links](chrizftw.cf/links)
+#### - [CommandGeek](commandgeek.com)
 
 # Join the Discord Server!
 
