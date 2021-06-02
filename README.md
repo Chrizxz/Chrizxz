@@ -8,7 +8,7 @@ I'm now on Github so yeah ;)
 #### - [Other Links](chrizftw.cf/links)
 #### - [CommandGeek](commandgeek.com)
 
-# Join the Discord Server!
+# Discord Server
 
 <a href="dsc.gg/chriz" title="Discord server invite" alt="Discord server invite">
 			<img src="https://discord.com/api/guilds/792898425376079913/embed.png?style=banner2"/>
