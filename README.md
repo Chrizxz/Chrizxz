@@ -3,10 +3,10 @@
 #  Ello, I'm Chriz! :D
 I'm now on Github so yeah ;) 
 
-#### - [Website](chrizftw.cf)
-#### - [More About Me](chrizftw.cf/aboutme)
-#### - [Other Links](chrizftw.cf/links)
-#### - [CommandGeek](commandgeek.com)
+#### - [Website](https://chrizftw.cf)
+#### - [More About Me](https://chrizftw.cf/aboutme)
+#### - [Other Links](https://chrizftw.cf/links)
+#### - [CommandGeek](https://commandgeek.com)
 
 # Discord Server
 
