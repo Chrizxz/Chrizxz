@@ -7,6 +7,7 @@ I'm now on Github so yeah ;)
 #### - [More About Me](https://chrizftw.cf/aboutme)
 #### - [Other Links](https://chrizftw.cf/links)
 #### - [CommandGeek](https://commandgeek.com)
+#### - [Bapplause](https://bapplause.xyz)
 
 # Discord Server
 
