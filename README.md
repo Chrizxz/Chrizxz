@@ -4,10 +4,9 @@
 I'm now on Github so yeah ;) 
 
 #### - [Website](https://chrizftw.cf)
-#### - [More About Me](https://chrizftw.cf/aboutme)
 #### - [Other Links](https://chrizftw.cf/links)
-#### - [CommandGeek](https://commandgeek.com)
 #### - [Bapplause](https://bapplause.xyz)
+#### - [CommandGeek](https://commandgeek.com)
 
 # Discord Server
 
