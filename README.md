@@ -2,7 +2,7 @@
 
 #  Ello, I'm Chriz! :D
 I'm now on Github so yeah ;) 
-Also DWAA is poggers
+DWAA is poggers
 
 #### - [Website](https://chrizftw.cf)
 #### - [Other Links](https://chrizftw.cf/links)
