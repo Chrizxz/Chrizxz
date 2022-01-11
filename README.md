@@ -3,6 +3,9 @@
 #  Ello, I'm Chriz! :D
 I'm now on Github so yeah ;) 
 
+<h1 align="center">#### [Website](https://chrizftw.cf) | [Other Links](https://chrizftw.cf/links) | [Bapplause](https://bapplause.xyz) | [CommandGeek](https://commandgeek.com)
+</h1>
+
 #### - [Website](https://chrizftw.cf)
 #### - [Other Links](https://chrizftw.cf/links)
 #### - [Bapplause](https://bapplause.xyz)
