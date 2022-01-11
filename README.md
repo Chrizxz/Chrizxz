@@ -1,15 +1,17 @@
 <!-- <p align="center"><img src="https://chriz.shx.gg/58BhK9HHa.png" alt="logo"></p> -->
 
 #  Ello, I'm Chriz! :D
-I'm now on Github so yeah ;) 
+A graphics designer/web developer/proffessional administrator
 
-<h1 align="center">#### [Website](https://chrizftw.cf) | [Other Links](https://chrizftw.cf/links) | [Bapplause](https://bapplause.xyz) | [CommandGeek](https://commandgeek.com)
+<h1 align="center">#### <a href="https://chrizftw.cf">Website</a> | <a href="https://chrizftw.cf/links">Other Links</a> | <a href="https://bapplause.xyz">Bapplause</a> | <a href="https://commandgeek.com">CommandGeek</a>
 </h1>
 
+<!--
 #### - [Website](https://chrizftw.cf)
 #### - [Other Links](https://chrizftw.cf/links)
 #### - [Bapplause](https://bapplause.xyz)
 #### - [CommandGeek](https://commandgeek.com)
+-->
 
 # Discord Server
 
