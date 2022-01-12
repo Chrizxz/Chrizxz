@@ -5,8 +5,10 @@ A graphics designer/web developer/proffessional administrator
 
 -----------
 
-<h3 align="center> <a href="https://chrizftw.cf">Website</a> | <a href="https://chrizftw.cf/links">Other Links</a> | <a href="https://bapplause.xyz">Bapplause</a> | <a href="https://commandgeek.com">CommandGeek</a>
+<h3 align="center"> <a href="https://chrizftw.cf">Website</a> | <a href="https://chrizftw.cf/links">Other Links</a> | <a href="https://bapplause.xyz">Bapplause</a> | <a href="https://commandgeek.com">CommandGeek</a>
 </h3>
+
+![Chriz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chrizxz&show_icons=true&theme=synthwave&hide_border)
 
 <!--
 #### - [Website](https://chrizftw.cf)
