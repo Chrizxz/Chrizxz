@@ -20,8 +20,8 @@ A graphics designer/web developer/proffessional administrator
 #### - [CommandGeek](https://commandgeek.com)
 -->
 
-# Discord Server
+<h2 align="center">Discord Server</h2>
 
 <a href="dsc.gg/chriz" title="Discord server invite" alt="Discord server invite">
-			<img src="https://discord.com/api/guilds/792898425376079913/embed.png?style=banner2"/>
+			<img align="center" src="https://discord.com/api/guilds/792898425376079913/embed.png?style=banner2"/> </a>
 
