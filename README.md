@@ -21,7 +21,7 @@ A graphics designer/web developer/proffessional administrator
 -->
 
 <h2 align="center">Discord Server</h2>
-<span align="center">
+<p align="center">
 <a href="dsc.gg/chriz" align="center" title="Discord server invite" alt="Discord server invite">
-			<img src="https://discord.com/api/guilds/792898425376079913/embed.png?style=banner2"/> </a> </span>
+			<img src="https://discord.com/api/guilds/792898425376079913/embed.png?style=banner2"/> </a> </p>
 
