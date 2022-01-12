@@ -1,6 +1,6 @@
 <!-- <p align="center"><img src="https://chriz.shx.gg/58BhK9HHa.png" alt="logo"></p> -->
 
-<h1>Ello, I'm Chriz! :D <img src="https://img.chrizftw.cf/r/CFTW_transparent_28x28.png"> </h1>
+<h1>=> Ello, I'm Chriz! :D <img src="https://img.chrizftw.cf/r/CFTW_transparent_28x28.png"> </h1>
 A graphics designer/web developer/proffessional administrator
 
 -----------
@@ -21,7 +21,7 @@ A graphics designer/web developer/proffessional administrator
 -->
 
 <h2 align="center">Discord Server</h2>
-
+<span align="center">
 <a href="dsc.gg/chriz" align="center" title="Discord server invite" alt="Discord server invite">
-			<img src="https://discord.com/api/guilds/792898425376079913/embed.png?style=banner2"/> </a>
+			<img src="https://discord.com/api/guilds/792898425376079913/embed.png?style=banner2"/> </a> </span>
 
