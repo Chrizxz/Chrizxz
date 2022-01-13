@@ -10,7 +10,7 @@
 
 <!-- ![Chriz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chrizxz&show_icons=true&theme=synthwave&hide_border)-->
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Chrizxz&show_icons=true&theme=synthwave&hide_border" alt="Stats"></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Chrizxz&show_icons=true&theme=algolia&hide_border" alt="Stats"></p>
 
 
 <h2 align="center">Tools & languages</h2>
