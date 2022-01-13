@@ -1,7 +1,7 @@
 <!-- <p align="center"><img src="https://chriz.shx.gg/58BhK9HHa.png" alt="logo"></p> -->
 
 <h1 align="center"> Ello, I'm Chriz! :D <img src="https://img.chrizftw.cf/r/CFTW_transparent_28x28.png"> </h1>
-<p align="center">graphics designer/web developer/proffessional administrator</p>
+<p align="center">a graphics designer/web developer/proffessional administrator</p>
 
 -----------
 
@@ -13,12 +13,8 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Chrizxz&show_icons=true&theme=synthwave&hide_border" alt="Stats"></p>
 
 
-<!--
-#### - [Website](https://chrizftw.cf)
-#### - [Other Links](https://chrizftw.cf/links)
-#### - [Bapplause](https://bapplause.xyz)
-#### - [CommandGeek](https://commandgeek.com)
--->
+<h2 align="center">Tools & languages</h2>
+<p align="center"> <img style="width:512px;height:auto;" src="https://img.chrizftw.cf/r/mprl6N930P.png"/> </p>
 
 <h2 align="center">Discord Server</h2>
 <p align="center">
