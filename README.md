@@ -16,8 +16,14 @@
 <h2 align="center">Tools & languages</h2>
 <p align="center"> <img style="width:512px;height:auto;" src="https://img.chrizftw.cf/r/mprl6N930P.png"/> </p>
 
-<h2 align="center">Discord Server</h2>
+<h2 align="center">Discord</h2>
 <p align="center">
+<!--[![Discord Presence](https://lanyard.cnrad.dev/api/273538684526264320?idleMessage=Doing%20some%20graphic%20designs..)](https://discord.gg/ZJ9PwQEC6E)-->
+
+<a href="https://discord.gg/ZJ9PwQEC6E">
+<img src="https://lanyard.cnrad.dev/api/273538684526264320?idleMessage=Doing%20some%20graphic%20designs.." title="Chriz's Discord" alt="ChrizxzFTW">
+</a>
+	
 <a href="dsc.gg/chriz" align="center" title="Discord server invite" alt="Discord server invite">
-			<img src="https://discord.com/api/guilds/792898425376079913/embed.png?style=banner2"/> </a> </p>
+<img src="https://discord.com/api/guilds/792898425376079913/embed.png?style=banner2"/> </a> </p>
 
