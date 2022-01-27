@@ -23,7 +23,10 @@
 <a href="https://discord.gg/ZJ9PwQEC6E">
 <img src="https://lanyard.cnrad.dev/api/273538684526264320?idleMessage=Doing%20some%20graphic%20designs.." title="Chriz's Discord" alt="ChrizxzFTW">
 </a>
-	
-<a href="dsc.gg/chriz" align="center" title="Discord server invite" alt="Discord server invite">
+</p>
+
+<h3 align="center">Discord Server</h3>
+<p align="center">
+<a href="dsc.gg/chriz" title="Discord server invite" alt="Discord server invite">
 <img src="https://discord.com/api/guilds/792898425376079913/embed.png?style=banner2"/> </a> </p>
 
