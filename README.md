@@ -14,7 +14,7 @@
 
 
 <h2 align="center">Tools & languages</h2>
-<p align="center"> <img style="width:512px;height:auto;" src="https://img.chrizftw.cf/r/mprl6N930P.png"/> </p>
+<p align="center"> <img style="width:512px;height:auto;" src="https://chriz.likes.cash/r/tools.png"/> </p>
 
 <h2 align="center">Discord</h2>
 <p align="center">
