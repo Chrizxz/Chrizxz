@@ -1,6 +1,6 @@
-<!-- <p align="center"><img src="https://chriz.shx.gg/58BhK9HHa.png" alt="logo"></p> -->
+<!--<img src="https://chriz.likes.cash/r/CFTW_transparent_28x28.png">-->
 
-<h1 align="center"> Ello, I'm Chriz! :D <img src="https://chriz.likes.cash/r/CFTW_transparent_28x28.png"> </h1>
+<h1 align="center"> Ello, I'm Chriz! :D </h1>
 <p align="center">a graphics designer/web developer/proffessional administrator</p>
 
 -----------
