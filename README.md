@@ -5,7 +5,7 @@
 
 -----------
 
-<h3 align="center"> <a href="https://chriz.cf">Website</a> | <a href="https://chriz.cf/links">Other Links</a> | <a href="https://bapplause.xyz">Bapplause</a> | <a href="https://github.com/commandgeek">CommandGeek</a>
+<h3 align="center"> <a href="https://chriz.cf">Website</a> | <a href="https://chriz.cf/links">Other Links</a> | <a href="https://github.com/commandgeek">CommandGeek</a>
 </h3>
 
 <!-- ![Chriz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chrizxz&show_icons=true&theme=synthwave&hide_border)-->
